@@ -1,0 +1,8 @@
+C:\Users\Амишка\Documents\24ИС МДК\math\math\bin\Debug\math.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\math\math\bin\Debug\math.exe
+C:\Users\Амишка\Documents\24ИС МДК\math\math\bin\Debug\math.pdb
+C:\Users\Амишка\Documents\24ИС МДК\math\math\obj\Debug\math.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\math\math\obj\Debug\math.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\math\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\math\math\obj\Debug\math.exe
+C:\Users\Амишка\Documents\24ИС МДК\math\math\obj\Debug\math.pdb
