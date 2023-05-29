@@ -1,0 +1,8 @@
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\obj\Debug\lab4odnommassiv.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\obj\Debug\lab4odnommassiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\obj\Debug\lab4odnommassiv.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\bin\Debug\lab4odnommassiv.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\bin\Debug\lab4odnommassiv.exe
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\bin\Debug\lab4odnommassiv.pdb
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\obj\Debug\lab4odnommassiv.exe
+C:\Users\Амишка\Documents\24ИС МДК\lab4odnommassiv\lab4odnommassiv\obj\Debug\lab4odnommassiv.pdb
