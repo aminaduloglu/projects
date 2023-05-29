@@ -1,0 +1,8 @@
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\bin\Debug\lab3row.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\bin\Debug\lab3row.exe
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\bin\Debug\lab3row.pdb
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\obj\Debug\lab3row.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\obj\Debug\lab3row.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\obj\Debug\lab3row.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\obj\Debug\lab3row.exe
+C:\Users\Амишка\Documents\24ИС МДК\lab3row\lab3row\obj\Debug\lab3row.pdb
