@@ -1,0 +1,11 @@
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\bin\Debug\MARATHON SKILLS.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\bin\Debug\MARATHON SKILLS.exe
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\bin\Debug\MARATHON SKILLS.pdb
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON SKILLS.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON SKILLS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON_SKILLS.Form1.resources
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON_SKILLS.Properties.Resources.resources
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON SKILLS.csproj.GenerateResource.cache
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON SKILLS.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON SKILLS.exe
+C:\Users\Амишка\Documents\24ИС МДК\MARATHON SKILLS\MARATHON SKILLS\obj\Debug\MARATHON SKILLS.pdb
