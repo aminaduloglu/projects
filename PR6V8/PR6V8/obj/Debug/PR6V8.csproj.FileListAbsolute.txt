@@ -1,0 +1,8 @@
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\bin\Debug\PR6V8.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\bin\Debug\PR6V8.exe
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\bin\Debug\PR6V8.pdb
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\obj\Debug\PR6V8.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\obj\Debug\PR6V8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\obj\Debug\PR6V8.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\obj\Debug\PR6V8.exe
+C:\Users\Амишка\Documents\24ИС МДК\PR6V8\PR6V8\obj\Debug\PR6V8.pdb
