@@ -1,0 +1,22 @@
+D:\vs\BMIcalc\bin\Debug\BMIcalc.exe.config
+D:\vs\BMIcalc\bin\Debug\BMIcalc.exe
+D:\vs\BMIcalc\bin\Debug\BMIcalc.pdb
+D:\vs\BMIcalc\obj\Debug\BMIcalc.csproj.AssemblyReference.cache
+D:\vs\BMIcalc\obj\Debug\BMIcalc.csproj.SuggestedBindingRedirects.cache
+D:\vs\BMIcalc\obj\Debug\BMIcalc.Form1.resources
+D:\vs\BMIcalc\obj\Debug\BMIcalc.Properties.Resources.resources
+D:\vs\BMIcalc\obj\Debug\BMIcalc.csproj.GenerateResource.cache
+D:\vs\BMIcalc\obj\Debug\BMIcalc.csproj.CoreCompileInputs.cache
+D:\vs\BMIcalc\obj\Debug\BMIcalc.exe
+D:\vs\BMIcalc\obj\Debug\BMIcalc.pdb
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\bin\Debug\BMIcalc.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\bin\Debug\BMIcalc.exe
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\bin\Debug\BMIcalc.pdb
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.Form1.resources
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.Properties.Resources.resources
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.csproj.GenerateResource.cache
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.exe
+C:\Users\Амишка\Documents\24ИС МДК\BMIcalc\obj\Debug\BMIcalc.pdb
