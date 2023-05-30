@@ -1,0 +1,12 @@
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\bin\Debug\LR3redaktor.exe.config
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\bin\Debug\LR3redaktor.exe
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\bin\Debug\LR3redaktor.pdb
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.csproj.AssemblyReference.cache
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.AboutBox1.resources
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.Form1.resources
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.Properties.Resources.resources
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.csproj.GenerateResource.cache
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.csproj.CoreCompileInputs.cache
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.exe
+C:\Users\Амишка\Documents\24ИС МДК\LR3redaktor\LR3redaktor\obj\Debug\LR3redaktor.pdb
