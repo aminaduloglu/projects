@@ -1,0 +1,25 @@
+﻿<Window x:Class="card.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:card"
+        mc:Ignorable="d"
+        Title="Открытка" Height="450" Width="1000" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <local:RhombusControl Header="С 23 февраля" Description="Пусть удача не подводит,
+За тобою следом ходит,
+Не теряй в глазах огня!
+С 23 Февраля!" ColoredSource="/Assets/23feb.jpg" ></local:RhombusControl>
+            <local:RhombusControl Header="С 8 марта" Description="Любви и радости, тепла,
+Желаю в день 8-го марта,
+Пускай судьба будет добра,
+И засыпает тебя подарками." ColoredSource="/Assets/8march.jpg" ></local:RhombusControl>
+            <local:RhombusControl Header="С днём рождения" Description="С днем рождения! Пусть мечты сбываются, счастье не заканчивается, удача не покидает, а близкие всегда будут рядом." ColoredSource="/Assets/hb.jpg"  ></local:RhombusControl>
+            <local:RhombusControl Header="С Новым Годом" Description="Желаю новогоднего настроения, веры в чудеса и исполнения желаний, счастливых и радостных дней. С Новым годом!" ColoredSource="/Assets/newyear.jpg" ></local:RhombusControl>
+
+        </StackPanel>
+        
+    </Grid>
+</Window>
